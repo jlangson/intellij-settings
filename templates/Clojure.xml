@@ -1,6 +1,5 @@
 <templateSet group="Clojure">
-  <template name="pl" value="(println (format &quot;$expr_copy$ ======&gt; %s&quot; $expr$))" description="print with nice formatting" toReformat="false" toShortenFQNames="true">
-    <variable name="expr_copy" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="pl" value="(println (format &quot;$expr$ ======&gt; %s&quot; $expr$))" description="print with nice formatting" toReformat="false" toShortenFQNames="true">
     <variable name="expr" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Clojure" value="true" />
