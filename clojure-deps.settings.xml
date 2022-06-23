@@ -1,0 +1,5 @@
+<application>
+  <component name="DepsSettings">
+    <option name="clojureCommandPath" value="/usr/bin/clojure" />
+  </component>
+</application>
