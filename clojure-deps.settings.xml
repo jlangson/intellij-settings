@@ -8,9 +8,9 @@
       </list>
     </option>
     <option name="configPath" value="$USER_HOME$/.clojure" />
-    <option name="executableHash" value="1350533917" />
+    <option name="executableHash" value="863405965" />
     <option name="installPath" value="/usr/local/lib/clojure" />
-    <option name="uberjarPath" value="/usr/local/lib/clojure/libexec/clojure-tools-1.11.1.1149.jar" />
-    <option name="version" value="1.11.1.1149" />
+    <option name="uberjarPath" value="/usr/local/lib/clojure/libexec/clojure-tools-1.11.1.1155.jar" />
+    <option name="version" value="1.11.1.1155" />
   </component>
 </application>
