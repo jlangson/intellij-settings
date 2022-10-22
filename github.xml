@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="jlangson" id="4a510c8d-d0b5-4c0c-b24e-b8ce5b0058fe">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
