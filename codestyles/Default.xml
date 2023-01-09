@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
-  <ClojureCodeStyleSettings>{
-  :cursive.formatting/default-only-indent true
-}</ClojureCodeStyleSettings>
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <ClojureCodeStyleSettings>
+    <option name="defaultOnlyIndent" value="true" />
+  </ClojureCodeStyleSettings>
 </code_scheme>
